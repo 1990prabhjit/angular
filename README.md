@@ -1,2 +1,2 @@
 # angular
-All the angular project will be pushed here.
+All the angular projects should be under this repo.
